@@ -28,7 +28,7 @@ export function Header() {
             }}>
            KAREN ARAGON
           </p>
-          <div style={{ flex: "1 1 0%", display: "flex", gap: "2em" }}>
+          <div data-testid="header-menu" style={{ flex: "1 1 0%", display: "flex", gap: "2em" }}>
             <p
               className="full"
               style={{ flex: "1 1 0%", height: 12, fontSize: 12, lineHeight: "12px", textAlign: "center", color: "black", whiteSpace: "nowrap" }}>

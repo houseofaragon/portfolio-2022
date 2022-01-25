@@ -1,18 +1,15 @@
 {
-  "name": "bestservedbold-christmas-baubles",
+  "name": "portfolio-2022",
   "version": "1.0.0",
-  "description": "Physics, effects, lights and colors.",
-  "keywords": [
-    "effects",
-    "physics",
-    "baubles"
-  ],
+  "description": "Karen Aragon portfolio.",
+  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
     "@react-three/cannon": "4.0.1",
     "@react-three/drei": "7.22.0",
     "@react-three/fiber": "7.0.16",
     "@react-three/postprocessing": "2.0.5",
+    "@testing-library/react": "11.2.5",
     "@types/three": "0.132.0",
     "postprocessing": "6.22.5",
     "react": "17.0.2",
@@ -22,12 +19,16 @@
     "three": "0.132.2"
   },
   "devDependencies": {
+    "@testing-library/react-hooks": "^7.0.2",
+    "jest": "26.6.0",
+    "jest-fetch-mock": "^3.0.3",
     "typescript": "3.8.3"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
+    "test:coverage": "react-scripts test --env=jsdom --coverage",
     "eject": "react-scripts eject"
   },
   "browserslist": [

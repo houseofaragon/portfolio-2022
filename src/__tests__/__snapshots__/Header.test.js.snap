@@ -1,0 +1,290 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders Header 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; padding: 40px; display: inline-flex; flex-direction: column; align-items: flex-start; justify-content: flex-start; pointer-events: none;"
+      >
+        <div
+          style="width: 100%; padding: 0px; display: inline-flex; flex-direction: row; align-items: center; justify-content: center;"
+        >
+          <p
+            style="font-family: 'Antonio', sans-serif; flex: 1 1 0%; height: 30px; font-size: 30px; font-weight: 700; line-height: 30px; color: black; letter-spacing: -2px;"
+          >
+            KAREN ARAGON
+          </p>
+          <div
+            data-testid="header-menu"
+            style="flex: 1 1 0%; display: flex; gap: 2em;"
+          >
+            <p
+              class="full"
+              style="flex: 1 1 0%; height: 12px; font-size: 12px; line-height: 12px; text-align: center; color: black; white-space: nowrap;"
+            >
+              ABOUT
+            </p>
+            <p
+              class="full"
+              style="flex: 1 1 0%; height: 12px; font-size: 12px; line-height: 12px; text-align: center; color: black;"
+            >
+              WORK
+            </p>
+            <p
+              class="full"
+              style="flex: 1 1 0%; height: 12px; font-size: 12px; line-height: 12px; text-align: center; color: black;"
+            >
+              WRITING
+            </p>
+          </div>
+          <p
+            style="flex: 1 1 0%; height: 30px; font-size: 30px; line-height: 30px; text-align: right; color: black;"
+          >
+            ⎑
+          </p>
+        </div>
+        <div
+          style="height: 60px;"
+        />
+        <div
+          style="width: 100%; padding: 0px; display: inline-flex; flex-direction: row; align-items: flex-start; justify-content: center;"
+        >
+          <p
+            style="flex: 1 1 0%; height: 100%; font-size: 12px; line-height: 1.5em; color: black;"
+          >
+            <b>
+              Hello, I'm Karen.
+            </b>
+            <br />
+            I'm an artist and software engineer.
+            <br />
+            <b>
+              —
+            </b>
+          </p>
+          <div
+            style="width: 10px;"
+          />
+          <p
+            style="transform: rotate3d(0, 0, 1, 90deg) translate3d(100%,10px,0); transform-origin: right; font-size: 12px; font-weight: 700; line-height: 100%; text-align: right; color: black; white-space: nowrap;"
+          >
+            I'm happy you're here        ●
+          </p>
+        </div>
+        <div
+          style="height: 10px;"
+        />
+        <div
+          class="full"
+          style="font-family: 'Antonio', sans-serif; width: 100%; flex: 1 1 0%; padding: 0px; display: inline-flex; flex-direction: row; align-items: flex-end; justify-content: center;"
+        >
+          <div
+            style="width: 10px;"
+          />
+        </div>
+        <div
+          style="height: 60px;"
+        />
+        <div
+          style="pointer-events: all; width: 100%; padding: 0px; display: inline-flex; flex-direction: row; align-items: flex-end; justify-content: center;"
+        >
+          <p
+            class="full"
+            style="white-space: nowrap; flex: 1 1 0%; font-size: 12px; line-height: 1.5em; color: black;"
+          >
+            <b>
+              Stack
+            </b>
+            <br />
+            Node React TS PHP Python
+          </p>
+          <div
+            style="width: 10px;"
+          />
+          <p
+            class="full"
+            style="font-family: 'Antonio', sans-serif; flex: 1 1 0%; font-size: 16px; font-weight: 700; line-height: 1em; text-align: center; color: black; letter-spacing: -0.5px; white-space: nowrap;"
+          >
+            Hi!
+          </p>
+          <div
+            style="width: 10px;"
+          />
+          <p
+            class="full"
+            style="flex: 1 1 0%; font-size: 12px; line-height: 1em; text-align: right; color: black;"
+          />
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; padding: 40px; display: inline-flex; flex-direction: column; align-items: flex-start; justify-content: flex-start; pointer-events: none;"
+    >
+      <div
+        style="width: 100%; padding: 0px; display: inline-flex; flex-direction: row; align-items: center; justify-content: center;"
+      >
+        <p
+          style="font-family: 'Antonio', sans-serif; flex: 1 1 0%; height: 30px; font-size: 30px; font-weight: 700; line-height: 30px; color: black; letter-spacing: -2px;"
+        >
+          KAREN ARAGON
+        </p>
+        <div
+          data-testid="header-menu"
+          style="flex: 1 1 0%; display: flex; gap: 2em;"
+        >
+          <p
+            class="full"
+            style="flex: 1 1 0%; height: 12px; font-size: 12px; line-height: 12px; text-align: center; color: black; white-space: nowrap;"
+          >
+            ABOUT
+          </p>
+          <p
+            class="full"
+            style="flex: 1 1 0%; height: 12px; font-size: 12px; line-height: 12px; text-align: center; color: black;"
+          >
+            WORK
+          </p>
+          <p
+            class="full"
+            style="flex: 1 1 0%; height: 12px; font-size: 12px; line-height: 12px; text-align: center; color: black;"
+          >
+            WRITING
+          </p>
+        </div>
+        <p
+          style="flex: 1 1 0%; height: 30px; font-size: 30px; line-height: 30px; text-align: right; color: black;"
+        >
+          ⎑
+        </p>
+      </div>
+      <div
+        style="height: 60px;"
+      />
+      <div
+        style="width: 100%; padding: 0px; display: inline-flex; flex-direction: row; align-items: flex-start; justify-content: center;"
+      >
+        <p
+          style="flex: 1 1 0%; height: 100%; font-size: 12px; line-height: 1.5em; color: black;"
+        >
+          <b>
+            Hello, I'm Karen.
+          </b>
+          <br />
+          I'm an artist and software engineer.
+          <br />
+          <b>
+            —
+          </b>
+        </p>
+        <div
+          style="width: 10px;"
+        />
+        <p
+          style="transform: rotate3d(0, 0, 1, 90deg) translate3d(100%,10px,0); transform-origin: right; font-size: 12px; font-weight: 700; line-height: 100%; text-align: right; color: black; white-space: nowrap;"
+        >
+          I'm happy you're here        ●
+        </p>
+      </div>
+      <div
+        style="height: 10px;"
+      />
+      <div
+        class="full"
+        style="font-family: 'Antonio', sans-serif; width: 100%; flex: 1 1 0%; padding: 0px; display: inline-flex; flex-direction: row; align-items: flex-end; justify-content: center;"
+      >
+        <div
+          style="width: 10px;"
+        />
+      </div>
+      <div
+        style="height: 60px;"
+      />
+      <div
+        style="pointer-events: all; width: 100%; padding: 0px; display: inline-flex; flex-direction: row; align-items: flex-end; justify-content: center;"
+      >
+        <p
+          class="full"
+          style="white-space: nowrap; flex: 1 1 0%; font-size: 12px; line-height: 1.5em; color: black;"
+        >
+          <b>
+            Stack
+          </b>
+          <br />
+          Node React TS PHP Python
+        </p>
+        <div
+          style="width: 10px;"
+        />
+        <p
+          class="full"
+          style="font-family: 'Antonio', sans-serif; flex: 1 1 0%; font-size: 16px; font-weight: 700; line-height: 1em; text-align: center; color: black; letter-spacing: -0.5px; white-space: nowrap;"
+        >
+          Hi!
+        </p>
+        <div
+          style="width: 10px;"
+        />
+        <p
+          class="full"
+          style="flex: 1 1 0%; font-size: 12px; line-height: 1em; text-align: right; color: black;"
+        />
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
